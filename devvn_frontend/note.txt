@@ -1,0 +1,2 @@
+create file components
+npx nuxi add component TheHeader
