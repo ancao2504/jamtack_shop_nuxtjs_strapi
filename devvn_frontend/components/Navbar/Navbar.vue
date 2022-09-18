@@ -45,5 +45,9 @@
           </div>
         </div>
       </div>
+      <!-- <NuxtExampleLayout example="routing/nuxt-link" class="example">
+      <NuxtPage />
+    </NuxtExampleLayout> -->
     </header>
+    
 </template>
